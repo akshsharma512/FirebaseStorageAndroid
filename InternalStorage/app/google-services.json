@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336906488895",
+    "firebase_url": "https://internalstorage-b1db7.firebaseio.com",
+    "project_id": "internalstorage-b1db7",
+    "storage_bucket": "internalstorage-b1db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336906488895:android:737dbd320de3a6be",
+        "android_client_info": {
+          "package_name": "com.example.akshatsharma.internalstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336906488895-d9q0qn7v772rda6a6ooqhu28hu4rh6ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHeoih0d0SROIXhvAQw02E-ztRWrZgls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

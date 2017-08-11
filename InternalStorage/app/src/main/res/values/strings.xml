@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+    <string name="action_settings">Settings</string>
+    <string name="submitBtn">Submit</string>
+    <string name="userName">userName</string>
+    <string name="contact">contact number</string>
+    <string name="email">email ID</string>
+    <string name="location">location</string>
+    <string name="company">company NAme</string>
+    <string name="uid">unique ID</string>
+    <string name="profile">Profile Details</string>
+</resources>
